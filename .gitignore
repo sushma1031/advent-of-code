@@ -1,0 +1,9 @@
+.env
+lib/
+bin/
+.project
+.classpath
+.DS_Store
+
+input.txt
+DayTest.java
